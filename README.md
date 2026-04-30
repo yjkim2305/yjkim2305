@@ -8,20 +8,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yjkim2305&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjkim2305&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-### 🏆 Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yjkim2305&theme=tokyonight&no-frame=true&column=7&margin-w=15)
-
-### 🐍 Contribution Snake
-
-# ![Snake animation](https://raw.githubusercontent.com/yjkim2305/yjkim2305/output/github-snake.svg)
 
 ### 👀 About Me
 
