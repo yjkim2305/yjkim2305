@@ -21,7 +21,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/yjkim2305/yjkim2305/output/github-snake.svg)
+# ![Snake animation](https://raw.githubusercontent.com/yjkim2305/yjkim2305/output/github-snake.svg)
 
 ### 👀 About Me
 
