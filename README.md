@@ -51,12 +51,10 @@
   ### 🏗 AIPub — GPU/ML Infrastructure Platform
 
   > Kubernetes 기반 워크로드 오케스트레이션 플랫폼
-
-  - **멀티 모듈 아키텍처** — API · Gateway · Batch · Adapter 등 9개 서비스
+  
   - **Gateway → API gRPC 통신** — REST 요청을 gRPC로 변환하는 프록시 패턴
   - **Harbor 연동** — 이미지 레지스트리 관리, Robot Account 자동화, Trivy 취약점 스캔
-  - **Kubernetes Client** — ResourceQuota, 워크로드 관리, GPU 분할 스케줄링
-  - **DDD 레이어드 아키텍처** — Domain → Application → Infrastructure + Event-Driven
+  - **Kubernetes Client** — ResourceQuota, 워크로드 관리, GPU 분할 스케줄링  
 
   ### 👀 About Me
 
